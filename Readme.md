@@ -37,7 +37,7 @@ The modeling process uses structured data and evaluates performance using **ROC-
 
 * **🧠 Modeling Approach:**
 
-  * Evaluated four models:
+  * Evaluated four models:    
     ✅ `DecisionTreeClassifier`  
     ✅ `RandomForestClassifier`  
     ✅ `XGBClassifier`  
